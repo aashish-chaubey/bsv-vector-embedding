@@ -10,7 +10,7 @@ It is important to note that this model is very specific to the biomedical domai
 
 1. Please download the repo using the download button or using the following command. 
 ```bash
-git clone <repo>
+git clone https://github.com/aashish-chaubey/bsv-vector-embedding.git
 ```
 2. Create a virtual environment using `virtualenv`
 
