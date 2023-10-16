@@ -6,7 +6,10 @@ Each text is reperesented as a 700 dimensional array so that it can be used in d
 
 It is important to note that this model is very specific to the biomedical domain. In order to get models which are not as specific you can use models like GloVe, Word2Vec, Sent2Vec, Bag of Words (BOW), etc.
 
-## How to run this model
+Download the model
+[BioSentVec Model](https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/BioSentVec/BioSentVec_PubMed_MIMICIII-bigram_d700.bin)
+
+## How to run the jupyter notebook
 
 1. Please download the repo using the download button or using the following command. 
 ```bash
