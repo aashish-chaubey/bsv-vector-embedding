@@ -49,4 +49,17 @@ git clone https://github.com/aashish-chaubey/bsv-vector-embedding.git
     python -m pip install -r requirements.txt
     ```
 
+5. **Download all the requirements from the sent2vec package**
+  - `cd` in to the sent2vec-master
+  ```bash
+  cd notebooks/sent2vec-master
+  ```
+  - Run the following commands:
+  ```bash
+  python -m pip install .
+  ```
+  ```bash
+  make
+  ```
+
 4. Run the notebook `notebooks/sent2vec-example.ipynb`
